@@ -1,5 +1,2 @@
-# Team ISchoolU
-Proxima
-Ankur
-Surendran
-Pratik
+# Repo1
+
